@@ -99,7 +99,7 @@
     width: 116px;
     height: auto;
     margin: 178.33px 741.93px 741.4px 406.67px; 
-    /* animation: wave 2s infinite; */
+    animation: wave 2s infinite;
 }
 @keyframes wave {
     0%{
